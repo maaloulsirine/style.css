@@ -1,0 +1,37 @@
+    nav{
+        background-color: azure;
+        height: 50px;
+    
+
+    }
+body{
+    background-color: pink;
+}
+
+.navebar{
+    display: flex;
+    justify-content:space-around;
+}
+.naveBarItem{
+    list-style: none;
+    color: purple;
+    font-size: 50px;
+    margin-top: 3px;
+
+}
+.naveBarItem:hover{
+    cursor: pointer;
+
+}
+ #homepictures{
+    width: 100%;
+    margin-left: 30px;
+    margin-top: 40;
+
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    
+}
